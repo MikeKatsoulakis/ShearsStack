@@ -1,0 +1,11 @@
+name: ShearsStack
+version: 1.0
+main: me.mikedev.ShearsStack.ShearsStackMain
+authors: [MikeDev]
+description: Stack shears up to 64!
+commands:
+  stack:
+    description: Stack the shears at your inventory
+permissions:
+  shearsstack.stack:
+    default: op
